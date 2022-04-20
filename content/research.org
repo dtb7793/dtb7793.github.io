@@ -1,4 +1,7 @@
 #+title: Research
+#+STARTUP: latexpreview
+#+LATEX_HEADER: \usepackage{amsmath, amssymb}
 [[./index.org][Home]]
 * Energy based models
+Testing out my latex here $\mbox{\Huge 2 + 2 = 4, \ \mathbb{R}}$
 * RgPCC
