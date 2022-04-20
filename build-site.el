@@ -20,7 +20,7 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple-v1.css\" />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -32,7 +32,7 @@
              :publishing-directory "./public"
              :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc t                ;; Include a table of contents
+             :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil)))    ;; Don't include time stamp in file
 
