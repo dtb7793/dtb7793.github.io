@@ -6,7 +6,7 @@ This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode
 
 Here is a link to my [[./Emacs.org][Emacs configuration]].
 
-[[./main.pdf][resume]]
+[[https://github.com/dtb7793/dtb7793.github.io/blob/main/content/main.pdf][my resume]]
 
 * Links
 
