@@ -1,10 +1,12 @@
-#+title: Org Mode Example Site
+#+title: Duncan Bennett
 
 * Overview
 
 This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
 
 Here is a link to my [[./Emacs.org][Emacs configuration]].
+
+[[./main.pdf][resume]]
 
 * Links
 
