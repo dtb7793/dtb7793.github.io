@@ -1,16 +1,13 @@
 #+title: Duncan Bennett
 
-* Overview
+* Introduction
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+This is my website. Here are some things.
 
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+[[https://github.com/dtb7793/dtb7793.github.io/blob/main/content/main.pdf][Resume]]
+[[./Teaching.org][Teaching]]
+[[./Research.org][Research]]
 
-[[https://github.com/dtb7793/dtb7793.github.io/blob/main/content/main.pdf][my resume]]
 
-* Links
 
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+
