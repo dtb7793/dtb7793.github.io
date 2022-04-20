@@ -3,5 +3,5 @@
 #+LATEX_HEADER: \usepackage{amsmath, amssymb}
 [[./index.org][Home]]
 * Energy based models
-Testing out my latex here $\mbox{\gamma + x = y}$ and some more math $\mbox{\int_0^x t^2 dt}$
+Testing out my latex here $\gamma$
 * RgPCC
