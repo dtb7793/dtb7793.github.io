@@ -5,9 +5,9 @@ This is my website. Here are some things.
 
 [[https://github.com/dtb7793/dtb7793.github.io/blob/main/content/main.pdf][Resume]]
 
-[[./Teaching.org][Teaching
-]]
-[[./Research.org][Research]]
+[[./Teaching.org][Teaching]]
+
+[[./research.org][Research]]
 
 
 
